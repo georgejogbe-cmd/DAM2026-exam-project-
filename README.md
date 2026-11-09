@@ -31,7 +31,7 @@
 - `notebooks/01-eda.ipynb` — Data description and EDA (George)
 - `src/preprocessing.py` — Preprocessing pipeline (Confidence)
 - `notebooks/03-modeling.ipynb` — Validation, baseline, models (Opeyemi)
-- `submissions/` — Kaggle submission files and recorded scores (Opeyemi)
+- `submissions/` — Kaggle submission files and recorded scores (Confidence)
 - `docs/` — Supporting document for the intermediate report
 
 ## Setup Instructions

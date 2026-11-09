@@ -32,7 +32,7 @@
 ## Results
 | Model | Validation Score (Balanced Accuracy) | Kaggle Score |
 |---|---|---|
-| Baseline (Random Forest) | 0.947202| N/A |
+| Baseline (Random Forest) | 0.947202| 0.94698 |
 | Final (LightGBM + 5-Fold CV) | 0.949958 |  / 0.94973 |
 
 ## Repository Structure

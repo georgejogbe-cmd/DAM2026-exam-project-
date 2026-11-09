@@ -32,8 +32,8 @@
 ## Results
 | Model | Validation Score (Balanced Accuracy) | Kaggle Score |
 |---|---|---|
-| Baseline (Random Forest) | [PASTE YOUR BASELINE SCORE] | [PASTE KAGGLE SCORE] |
-| Final (LightGBM + 5-Fold CV) | [PASTE LIGHTGBM CV SCORE] | [PASTE KAGGLE SCORE] |
+| Baseline (Random Forest) | 0.947202| N/A |
+| Final (LightGBM + 5-Fold CV) | 0.949958 |  / 0.94973 |
 
 ## Repository Structure
 - `notebooks/01-eda.ipynb` — Data description and EDA (George)

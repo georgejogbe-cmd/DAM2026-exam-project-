@@ -6,6 +6,14 @@
 - **Target:** `health_condition` (Multiclass classification: at-risk, unhealthy, fit)
 - **Evaluation Metric:** Balanced Accuracy
 
+- ## Submission Format
+- Final file: `submission.csv` 
+- Columns: `id`, `health_condition`
+- Header exactly: `id,health_condition`
+- Allowed labels: `fit`, `at-risk`, `unhealthy`
+- No index column
+- IDs span `690088`–`840404`
+
 ## Team & Roles
 | Member | Role | Responsibilities |
 |---|---|---|

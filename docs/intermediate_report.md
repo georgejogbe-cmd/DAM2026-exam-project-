@@ -137,9 +137,8 @@ Competition: Yan, Y., Reade, W. and Park, E. (2026).
 Predicting Student Health Risk. Kaggle.
 https://www.kaggle.com/competitions/playground-series-s6e7
 
-The supplied notebook `kaggle-s607-fastai-fold.ipynb` was consulted
-as a reference example. Its author and original URL remain to be
-identified for a complete acknowledgement.
+references/kaggle-s607-fastai-fold.ipynb
 
-The implemented solution uses scikit-learn pipelines, three model
-types, separate feature experiments and a hyperparameter search.
+The notebook `kaggle-s607-fastai-fold.ipynb` was consulted as a reference example to understand a possible approach to the competition. No code was copied from it into our implementation. 
+
+Our solution uses scikit-learn pipelines with separate model comparisons, feature engineering experiments and hyperparameter tuning.

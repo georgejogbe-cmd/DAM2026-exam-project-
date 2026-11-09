@@ -156,7 +156,7 @@ Neither feature improved validation performance. The original
 feature set was retained.
 
 ## Hyperparameter Tuning
-A grid search evaluated six combinations of:
+A grid search evaluated six combinations of;
 
 - `max_leaf_nodes`: 15, 31 and 63
 - `l2_regularization`: 1.0 and 10.0

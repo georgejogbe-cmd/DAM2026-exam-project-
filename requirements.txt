@@ -1,7 +1,5 @@
 pandas
 numpy
-scikit-learn
-matplotlib
-seaborn
+scikit-learn>=1.2
+matplotlib>=3.9
 jupyter
-lightgbm

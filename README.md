@@ -1,4 +1,6 @@
-# DAM2026 Exam Project — Predicting Student Health Risk
+# DAM2026 Exam PROJECT 
+# Predicting Student Health Risk
+
 This project compares machine learning models for predicting student
 health categories from lifestyle and health-related features.
 
@@ -7,13 +9,13 @@ The target variable is `health_condition`, with three classes:
 
 The project was developed in Python using Google Colab.
 
-## Competition Details
+## COMPETITION  DETAILS
 - **Name:** Playground Series S6E7 - Predicting Student Health Risk
 - **Link:** [https://www.kaggle.com/competitions/playground-series-s6e7](https://www.kaggle.com/competitions/playground-series-s6e7)
 - **Target:** `health_condition` (Multiclass classification: at-risk, unhealthy, fit)
 - **Evaluation Metric:** Balanced Accuracy
 
-## Dataset
+## DATASET
 The competition data are synthetically generated and were inspired
 by the College Student Health Behavior Dataset.
 
@@ -41,7 +43,7 @@ by the College Student Health Behavior Dataset.
 - `smoking_alcohol`
 - `gender`
 
-### Target Distribution
+### TARGET DISTRIBUTION
 
 | Health Condition | Count | Percentage |
 |---|---:|---:|
@@ -49,7 +51,7 @@ by the College Student Health Behavior Dataset.
 | unhealthy | 57,724 | 8.36% |
 | fit | 39,803 | 5.77% |
 
-## Team and Roles
+## TEAM & ROLES
 
 | Member | Role | Responsibilities |
 |---|---|---|
@@ -172,7 +174,7 @@ The tuned model achieved 0.949929 balanced accuracy, compared
 with 0.949958 for the original gradient boosting model.
 Tuning therefore did not improve validation performance.
 
-## Results
+## RESULTS
 
 All scores below use balanced accuracy.
 
@@ -191,7 +193,7 @@ higher public and private Kaggle scores than random forest.
 For both submitted models, public Kaggle performance was close
 to local validation performance.
 
-## Submission Format
+## SUBMISSION FORMAT
 
 Two submission files were produced:
 
@@ -201,7 +203,7 @@ Two submission files were produced:
 Each submitted pipeline was retrained on all labelled training
 records before predicting the competition test set.
 
-Submission requirements:
+## Submission requirements:
 
 - Columns: `id`, `health_condition`
 - Header: `id,health_condition`
@@ -210,7 +212,7 @@ Submission requirements:
 - Test IDs: `690088`–`985840`
 - No additional index column
 
-## Repository Contents
+## REPOSITORY CONTENTS
 
 The analysis and modelling code are organised in one Google Colab
 notebook. It contains data loading, EDA, preprocessing, validation,

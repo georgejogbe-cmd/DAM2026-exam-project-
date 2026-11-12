@@ -1,4 +1,4 @@
-# Kaggle Submission Scores
+# KAGGLE SUBMISSION SCORE
 
 All scores use balanced accuracy.
 
@@ -7,7 +7,7 @@ All scores use balanced accuracy.
 | Random Forest | submission_random_forest.csv | 0.947202 | 0.94698 | 0.94683 |
 | Selected Histogram Gradient Boosting | submission.csv | 0.949958 | 0.94973 | 0.94972 |
 
-## Evaluation Notes
+## EVALUATION NOTE
 
 - Local validation used the same stratified 80:20 split for both models.
 - Each submission model was retrained on all labelled training records.

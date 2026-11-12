@@ -126,9 +126,9 @@ than a completely independent final assessment.
 
 | Member | Planned Work |
 |---|---|
-| Ogbe George Junior | Examine minority-class patterns further, refine feature descriptions and prepare the data and EDA presentation section. |
-| Ododa Confidence | Review preprocessing, investigate feature contributions and document why the tested features were retained or rejected. |
-| Opeyemi Alimi Jamiu | Assess model stability across additional training-data splits or folds, examine classification errors and finalise the model comparison. |
+| Ogbe George Junior | Examining minority-class patterns further, refine feature descriptions and prepare the data and EDA presentation section. |
+| Ododa Confidence | Review preprocessing, investigating feature contributions and document why the tested features were retained or rejected. |
+| Opeyemi Alimi Jamiu | Assessing  model stability across additional training-data splits or folds, examine classification errors and finalise the model comparison. |
 | All members | Finalise repository documentation, supporting materials and presentation slides; ensure individual contributions are visible through commits; practise the 15–20 minute group presentation and answers to questions. |
 
 ## 4. Sources and Acknowledgements
